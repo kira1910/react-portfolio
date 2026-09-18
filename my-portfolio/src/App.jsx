@@ -12,7 +12,7 @@ const projects = [
     features: ["Event schedule & stall listings", "Registration section", "Fully responsive"],
     gradient: "linear-gradient(135deg,#f97316,#fbbf24)",
     demoUrl: "https://your-food-festival-demo-link.com",
-    githubUrl: "https://github.com/kiran/food-festival-community"
+    githubUrl: "https://github.com/kira1910/food-festival-community"
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const projects = [
     features: ["Multi-page routing", "Dark / light mode", "Project filter & search"],
     gradient: "linear-gradient(135deg,#0f766e,#2dd4bf)",
     demoUrl: "https://your-portfolio-demo-link.com",
-    githubUrl: "https://github.com/kiran/my-react-portfolio"
+    githubUrl: "https://github.com/kira1910/react-portfolio"
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const projects = [
     features: ["Department & admission pages", "Image gallery", "Mobile-friendly"],
     gradient: "linear-gradient(135deg,#1e3a8a,#60a5fa)",
     demoUrl: "https://your-college-demo-link.com",
-    githubUrl: "https://github.com/kiran/abc-college-website"
+    githubUrl: "https://github.com/kira1910/abc-college"
   },
   {
     id: 4,
@@ -45,7 +45,7 @@ const projects = [
     features: ["Product showcase grid", "Routine section", "Contact form"],
     gradient: "linear-gradient(135deg,#14532d,#4ade80)",
     demoUrl: "https://your-puremint-demo-link.com",
-    githubUrl: "https://github.com/kiran/puremint-skincare"
+    githubUrl: "https://github.com/kira1910/puremint-skincare"
   },
 ];
 
@@ -76,7 +76,7 @@ const experience = [
 ];
 const interests = ["Coding", "UI Design", "Reading", "Learning new technologies"];
 const socials = [
-  { name: "GitHub", url: "https://github.com/kiran" },
+  { name: "GitHub", url: "https://github.com/kira1910" },
   { name: "LinkedIn", url: "https://linkedin.com/in/kiran" },
   { name: "Instagram", url: "https://instagram.com/kiran" },
   { name: "Facebook", url: "https://facebook.com/kiran" }
@@ -354,8 +354,8 @@ const Contact = () => {
       <h1 className="page-heading">Get In Touch</h1>
       <p className="section-subtitle">Have a question or project? Let's talk.</p>
       <div className="contact-info-grid">
-        <div className="info-card"><h3>Email</h3><p>hello@kiran.dev</p></div>
-        <div className="info-card"><h3>Phone</h3><p>+92 300 1234567</p></div>
+        <div className="info-card"><h3>Email</h3><p>hongkira282@gmail.com</p></div>
+        <div className="info-card"><h3>Phone</h3><p>+92 3077052323</p></div>
         <div className="info-card"><h3>Location</h3><p>Lahore, Pakistan</p></div>
       </div>
       <div className="contact-layout">
